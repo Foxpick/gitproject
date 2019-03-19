@@ -22,11 +22,16 @@
 
                   查询修改的地方               -------git diff HEAD --git.txt
                    
-                   删除修改文件                 --------git checkout -- 文件名字 
+                   回退修改文件                 --------git checkout -- 文件名字 
                                                         撤回顺序  --- 暂存区  --- 版本控制区
                                                                                add.         commit
+                    删除文件                       --------rm 文件名字
+
+                    删除远程仓库                --------------------git remote rm origin
 
 
+生成电脑的公钥
+$ ssh-keygen -t rsa -C "958910043@qq.com"     
 
 
 
