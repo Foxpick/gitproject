@@ -1,2 +1,1 @@
-git  is verason 
-git is verygoods
+我修改了文件。我感觉到很欣慰 git 入门很简单也很方便
