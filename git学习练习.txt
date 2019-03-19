@@ -1,0 +1,22 @@
+1.安装gitbase
+
+2.命令行      初始化 git                         ------git init
+                   往代码库中添加                 ------git add git.txt    == git add .
+                   提交日志说明                    ------git commit -m "提交说明"
+                   查看提交的状态                 ------git log
+                   以提交说明来查找数据       ------git log --pretty=oneline
+
+                   回退到上一个版本             -------git reset        
+                                                          //注释
+			          --hard HEAD^          回退到上一次提交  
+                                                          --hard HEAD~100    回退到100次之前
+                                                          --hard HEAD  (指定编号)        历史编号
+
+                   查询所有的版本号            ------git reflog
+
+                   查询当前库的版本号        -------git status
+      sd s 
+
+
+
+ 
