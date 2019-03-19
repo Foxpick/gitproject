@@ -10,13 +10,16 @@
                                                           //注释
 			          --hard HEAD^          回退到上一次提交  
                                                           --hard HEAD~100    回退到100次之前
-                                                          --hard HEAD  (指定编号)        历史编号
+                                                          --hard   (指定编号)        历史编号
 
                    查询所有的版本号            ------git reflog
 
                    查询当前库的版本号        -------git status
 
                   查询修改的地方               -------git diff HEAD --git.txt
+
+
+My stupid boss still prefers SVN.
 
 
 
