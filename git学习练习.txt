@@ -15,7 +15,8 @@
                    查询所有的版本号            ------git reflog
 
                    查询当前库的版本号        -------git status
-      sd s 
+
+                  查询修改的地方               -------git diff HEAD --git.txt
 
 
 
