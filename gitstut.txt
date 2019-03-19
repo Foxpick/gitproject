@@ -1,5 +1,9 @@
 1.安装gitbase
 
+
+          工作区：显示红色字体                         暂存区 显示绿色字体
+
+
 2.命令行      初始化 git                         ------git init
                    往代码库中添加                 ------git add git.txt    == git add .
                    提交日志说明                    ------git commit -m "提交说明"
@@ -21,6 +25,7 @@
                    删除修改文件                 --------git checkout -- 文件名字 
                                                         撤回顺序  --- 暂存区  --- 版本控制区
                                                                                add.         commit
+
 
 
 
