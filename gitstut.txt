@@ -37,6 +37,9 @@
                 删除分支                  ----------------------git branch -d dev      
 
 
+                （合并完成） 删除分支---- branch -d feature-vulcan
+                 （未合并）删除分支---- branch -D feature-vulcan
+
 
 
 
