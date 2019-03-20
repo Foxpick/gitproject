@@ -30,6 +30,22 @@
                     删除远程仓库                --------------------git remote rm origin
 
 
+
+	创建分支名字为dev    ---------------------git branch dev
+	切换到分支 dev       ---------------------git checkout dev
+
+
+
+
+
+
+
+
+
+
+
+
+
 生成电脑的公钥
 $ ssh-keygen -t rsa -C "958910043@qq.com"     
 
