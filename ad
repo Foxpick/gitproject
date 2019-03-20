@@ -1,0 +1,114 @@
+*   [33mcommit f53d025d727c099caec5ee39f42a67060b634076[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 137379e 9599d7e
+[31m|[m [32m|[m Author: zhangxiaodong <958910043@qq.com>
+[31m|[m [32m|[m Date:   Wed Mar 20 14:30:30 2019 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     重新提交了代码
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 9599d7ebbe34cc02fa0e2291e630b73d1212d900[m[33m ([m[1;32msecondbranch[m[33m)[m
+[31m|[m [32m|[m Author: zhangxiaodong <958910043@qq.com>
+[31m|[m [32m|[m Date:   Wed Mar 20 14:14:15 2019 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     提交新的知识
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 137379e5fe79af039d2d1cf79157bb4c529d43c5[m
+[32m|[m[32m/[m  Author: zhangxiaodong <958910043@qq.com>
+[32m|[m   Date:   Wed Mar 20 14:26:44 2019 +0800
+[32m|[m   
+[32m|[m       提交有冲突的代码
+[32m|[m 
+* [33mcommit 549df67687ac4005b2a926ba1349ad8fb5d0c2c6[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Wed Mar 20 13:48:11 2019 +0800
+[32m|[m 
+[32m|[m     提交了一次分支
+[32m|[m 
+* [33mcommit 1eba86eae49ace0088ca5a02856d6b65ca4053b8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Wed Mar 20 11:25:45 2019 +0800
+[32m|[m 
+[32m|[m     合并分支并且提交了
+[32m|[m 
+* [33mcommit 2fd4bfe92875cbdcb7bb989c387803cbbffca34c[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Wed Mar 20 11:18:51 2019 +0800
+[32m|[m 
+[32m|[m     第一次分之内容提交
+[32m|[m 
+* [33mcommit b0be517996aff7814830f9e3e4a3db338b6a0f0d[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Wed Mar 20 11:15:01 2019 +0800
+[32m|[m 
+[32m|[m     创建分支
+[32m|[m 
+* [33mcommit b4ead9fc5c158eb1b0449b88ad06b3591816e431[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Wed Mar 20 09:33:44 2019 +0800
+[32m|[m 
+[32m|[m     简单的进行了一次修改
+[32m|[m 
+* [33mcommit a683f1e5044f21e23ec3b1d4de13045a0a7d0489[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 17:45:52 2019 +0800
+[32m|[m 
+[32m|[m     做了一次提交修改
+[32m|[m 
+* [33mcommit 26476850391ac9f30194a72863cf76abbe0c0af1[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 16:26:40 2019 +0800
+[32m|[m 
+[32m|[m     删除了a文件操作
+[32m|[m 
+* [33mcommit b974aa8a9d2bd558de820b1ae920ebc8012c0aba[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 15:52:01 2019 +0800
+[32m|[m 
+[32m|[m     学习从暂存区回退到工作区从仓库退回到暂存区
+[32m|[m 
+* [33mcommit 16f0e5b4db9930bf584e4dff47397fa8e47d87dc[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 15:42:49 2019 +0800
+[32m|[m 
+[32m|[m     删除了一段文字
+[32m|[m 
+* [33mcommit 461c728a01d067f2ef25a891ac19cc03e3fedddf[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 15:42:15 2019 +0800
+[32m|[m 
+[32m|[m     这是研究checkout使用方法的模块
+[32m|[m 
+* [33mcommit ac17dcdcbea6fc612ac11402a68aac6d5a6beb35[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 15:31:58 2019 +0800
+[32m|[m 
+[32m|[m     我修改了名字
+[32m|[m 
+* [33mcommit be03c58174ce1bf9251d4c1e26e91c163a44f438[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 15:12:46 2019 +0800
+[32m|[m 
+[32m|[m     我已经重新提交了最新的代码
+[32m|[m 
+* [33mcommit 5f807bb4d13c6a26f605fd516917856374f668b2[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 15:12:08 2019 +0800
+[32m|[m 
+[32m|[m     还有一个文件没有提交下次再提交
+[32m|[m 
+* [33mcommit 81a9781a269c43c8f8098aac5972c48842a25d1d[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 15:04:13 2019 +0800
+[32m|[m 
+[32m|[m     将所有的文件重新提交上去
+[32m|[m 
+* [33mcommit 1b23ecff7614c7cd8fc1edf78436c005aed4ca71[m
+[32m|[m Author: zhangxiaodong <958910043@qq.com>
+[32m|[m Date:   Tue Mar 19 14:33:28 2019 +0800
+[32m|[m 
+[32m|[m     第一次修改文件
+[32m|[m 
+* [33mcommit 04db1724364afd11b1ef0ca9ec3e80a4dff74fc7[m
+  Author: zhangxiaodong <958910043@qq.com>
+  Date:   Tue Mar 19 14:29:50 2019 +0800
+  
+      添加了3个文件
