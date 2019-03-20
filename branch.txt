@@ -1,1 +1,2 @@
 我是创建的一个新的分支
+Creating a new branch is quick AND simple.
